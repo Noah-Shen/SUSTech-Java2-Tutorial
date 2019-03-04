@@ -6,7 +6,7 @@ Java Collections can achieve all the operations that you perform on a data such 
 Java Collection means a single unit of objects. Java Collection framework provides many interfaces (Set, List, Queue, Deque) and classes (ArrayList, Vector, LinkedList, PriorityQueue, HashSet, LinkedHashSet, TreeSet).
 
 ## Hierarchy of Collection Framework
-![Alt text](java-collection-hierarchy.png)![Map](java-map-hierarchy.png)
+![hierarchy](java-collection-map-hierarchy.png)
 
 ## List Interface
 List interface is the child interface of Collection interface. It inhibits a list type data structure in which we can store the ordered collection of objects. It can have duplicate values.
