@@ -39,7 +39,7 @@ Chinese:https://blog.csdn.net/hst_gogogo/article/details/82530929
 
 # 1. Create Project
 
-Open Eclipse, Select:
+## Open Eclipse, Select:
 - File -> New -> Project
 
 - Select JavaFX Project
@@ -54,7 +54,7 @@ Then, let us make sure that JAVA2LAB3Demo excute successfully, right click on th
 - JAVA2Lab3Demo application is running, and the result is blank  as follows:
 - ![](Picture5.png)
 ------
-For Intellij IEDA
+## For Intellij IEDA
 - File -> New -> Project
 ![](picture34.png)
 - Select JAVAFX on the left
