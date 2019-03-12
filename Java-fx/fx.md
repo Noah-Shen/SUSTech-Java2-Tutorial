@@ -15,11 +15,13 @@ This tutorial is based on the jdk8, if your java version is higher than 8, using
 The Eclipse e(fx)clipse project provides tooling and runtime components that help developers create JavaFX applications. e(fx)eclipse is a set of tools and necessary library. It is going to help you execute JavaFX program, so you need to make sure that you have already download it and installed successfully on your eclipse. If you haven't installed e(fx)eclipse yet, I hope the tutorial below will do you a favor:
 
    Chinese:http://www.yiibai.com/javafx/install-efxclipse-into-eclipse.html
+   
    English:http://wiki.eclipse.org/Efxclipse/Tutorials/AddingE(fx)clipse_to_eclipse#Installing_e.28fx.29clipse_IDE.
 
 ### JavaFX Scene Builder
    JavaFX Scene Builder is a visual layout tool that lets users quickly design JavaFX application user interfaces, without coding. Users can drag and drop UI components to a work area, modify their properties, apply style sheets, and the FXML code for the layout that they are creating is automatically generated in the background. The result is an FXML file that can then be combined with a Java project by binding the UI to the application’s logic. 
 Chinese:http://www.yiibai.com/javafx/install-javafx-scene-builder-into-eclipse.html
+
 English:https://o7planning.org/en/10621/install-javafx-scene-builder-into-eclipse
 
 --------
@@ -28,6 +30,7 @@ English:https://o7planning.org/en/10621/install-javafx-scene-builder-into-eclips
 
 You only need to download JavaFx Scene Builder and javafx plugin.
 English:https://www.jetbrains.com/help/idea/preparing-for-javafx-application-development.html
+
 Chinese:https://blog.csdn.net/hst_gogogo/article/details/82530929
 
 -------
@@ -154,7 +157,11 @@ http://openjfx.io
 
 # Reference:
 http://www.yiibai.com/javafx/install-efxclipse-into-eclipse.html
+
 http://wiki.eclipse.org/Efxclipse/Tutorials/AddingE(fx)clipse_to_eclipse#Installing_e.28fx.29clipse_IDE.
+
 https://www.jetbrains.com/help/idea/preparing-for-javafx-application-development.html
+
 https://blog.csdn.net/hst_gogogo/article/details/82530929
+
 http://openjfx.io
