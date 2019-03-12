@@ -130,7 +130,7 @@ if you use IDEA:
 - Close JAVAFX Scene Builder and refresh project on eclipse, you can view your code in mainUI.fxml
 ![](Picture28.png)
 
-- Add the property fx:controller to <VBox>, which will have a reference to a control inside the VBox (such as myButton).
+- Add the property fx:controller to VBox, which will have a reference to a control inside the VBox (such as myButton).
 ![](Picture29.png)
 
 - At this point, we create a new class in the application package, named MainUIxml, remember that the name of this class should be the same as the one set in fxml.
